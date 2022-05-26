@@ -24,3 +24,11 @@ Bunu nasıl yapabileceğimi bana öğretebilir misin ve hazır hale getirebilir 
 ***Kırmızı ile yazılı bölümlerdeki yazıları sana cuma'ya kadar göndereceğim.
 
 kolay gelsin.
+
+
+----Erhan----
+1-Bütün  hardcoded margin,padding ler düzeltilecek.
+2-Kalan hardcoded string ler messages dosyasına taşınacak.(alert da title lar düzenlenecek.)
+3-Demo sayfasında native base den dolayı arada boşluk var ona tekrar bakılacak.
+4-Facebook sdk ve google için ios ayarları yapılacak.(Debug keystore kullanıldı ona bakılacak.)
+5-Console.log lar silinecek,bütün errorlar handle edilecek,handle edilmeyenlere global bir mekanizma kurulabilir.(Varsa tabi..)
